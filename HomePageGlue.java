@@ -13,8 +13,8 @@ public class HomePageGlue {
 //        Assert.assertTrue(b);
 
         //FileUtils.copyFile();
-        homePage.enterSearchText("lsjflsdjlfsdllsdjlfds");
-        homePage.clickOnSearchButton();
+        //homePage.enterSearchText("lsjflsdjlfsdllsdjlfds");
+       // homePage.clickOnSearchButton();
     }
 
 }
